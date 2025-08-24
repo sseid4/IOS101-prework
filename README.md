@@ -30,7 +30,10 @@ The following **required** functionality is completed:
 3. YouTube
     •    Ability to play video while hovering on it
     •    Adjustable playback speed to learn faster
-    
+
+App Idea: SmartDay
+SmartDay is a productivity app that uses AI to help people plan their day more efficiently. Instead of just adding tasks to a to-do list, the app analyzes your schedule, priorities, and energy levels to automatically suggest the best times for each task. Features would include an AI-powered daily planner that adapts if you fall behind, smart reminders that encourage breaks at the right moments, and integration with calendars, emails, and task apps. Over time, the app learns your habits and suggests ways to improve focus, balance work with rest, and reach goals more effectively.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
