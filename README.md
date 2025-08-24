@@ -2,7 +2,7 @@
 
 Submitted by: **Siyam Seid**
 
-**Color Switch** is an app that changes the app's background to a rondom color every time the button is clicked. [TODO] 
+**Color Switch** is an app that changes the app's background to a rondom color every time the button is clicked.
 
 Time spent: **1** hours spent in total
 
